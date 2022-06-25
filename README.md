@@ -19,7 +19,6 @@ utilizar para o frontend o ReactJs e o site será responsivo.
 <div align="center">
   <a href="https://github.com/mchclaro">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mchclaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchclaro&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 <div style="display: inline_block"><br>
