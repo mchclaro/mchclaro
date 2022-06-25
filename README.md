@@ -15,11 +15,7 @@ onde será feita a busca por um produto ou loja e assim irá ver as informaçõe
 Desenvolvendo um API em .NET Core com C# (e também: Entity Framework Core, LINQ...) e o banco de dados relacional SQLServer para o backend do projeto, como este projeto o nosso publico alvo são os usuários vamos
 utilizar para o frontend o ReactJs e o site será responsivo.
 
-
-<div align="center">
-  <a href="https://github.com/mchclaro">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mchclaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+##
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Michel-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
