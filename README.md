@@ -1,20 +1,17 @@
 ## Olá! Eu sou o Michel Claro, Desenvolvedor Backend .NET | C# Júnior 👨🏻‍💻
 
 - ✅ Tecnologias que tenho conhecimento e experiência: C#, .NET, .NET Core, MCV, WebForms, ASP.NET SqlServer, JavaScript, HTML5, CSS3.
-- ✅ Experiência também com Google Gloud Platform (GCP) e metologia ágeis.
-- 🔥 Estudando ReactJs, Typescript, SOLID
+- ✅ Experiência também com Google Gloud Platform (GCP), AWS S3 e metologia ágeis.
+- 🔥 Aperfeiçoando meus conhecimento em frontend. Sou aluno do curso Programador FullStack JavaScript Profissional da escola OneBitCode.
 
 
 ### Projetos Atuais
-- 🚀 Projeto de estágio da faculdade: Um site back-office para gerenciar serviços que a empresa realiza tais como: pintura, serviços elétricos, hidraúlicos,
-alvenaria e pequenos reparos. O projeto será utilizado pelo admnistrador da empresa, onde ele poderá realizar orçamentos, agendamentos, relatórios e mais.
-Uma API desenvolvida em .NET Core com C# (e também: Entity Framework Core, LINQ...) o banco de dados relacional SQLServer, para o frontend utilizaremos HTML5, CSS3, Javascript, Typescript.
+- 🚀 Projeto de estágio da faculdade: Foi desenvolvido um site back-office para gerenciar serviços que a empresa realiza tais como: pintura, serviços elétricos, hidraúlicos, alvenaria e pequenos reparos. O projeto será utilizado pelo admnistrador da empresa, onde ele poderá realizar orçamentos, agendamentos, relatórios e mais.
+Uma API desenvolvida em .NET 6 com C# (e também: Entity Framework Core, LINQ...) o banco de dados relacional SQLServer, para o frontend usamos HTML5, CSS3, Javascript e biblioteca ReactJs.
 
-- 🚀 Trabalho de conclusão de curso: Um site para os usuários e visitantes da cidade onde moro utilizar, a ideia é listar todos comércios da cidade ou a maioria deles, 
-onde será feita a busca por um produto ou loja e assim irá ver as informações como: valor do produto, endereço, telefone, horário de atendimento, redes sociais, etc.
-Desenvolvendo um API em .NET Core com C# (e também: Entity Framework Core, LINQ...) e o banco de dados relacional SQLServer para o backend do projeto, como este projeto o nosso publico alvo são os usuários vamos
-utilizar para o frontend o ReactJs e o site será responsivo.
+- 🚀 Trabalho de conclusão de curso: Um site para os usuários e visitantes da cidade onde moro utilizar, o objetivo é listar todos comércios da cidade ou a maioria deles, onde será feita a busca por uma loja e assim irá ver as informações como: endereço, telefone, horário de atendimento, redes sociais, etc. Poderá filtrar por categoria de comércio também. A API foi desenvolvida em .NET 6 com C# (e também: Entity Framework Core, LINQ...) e o banco de dados relacional SQLServer para o backend do projeto, como este projeto o nosso publico alvo são os usuários vamos utilizar para o frontend o ReactJs e o site é responsivo.
 
+- ❗ Em ambos projetos a API foi desenvolvida no modelo MVC, documentamos elas com Swagger. E seguimos o padrão Design Patterns e Clean Code, usamos um trio de tecnologias para organizar melhor o projeto que é AspNet Core junto com o CQRS e Mediator. Temos também para ambos, a integração com o S3 da AWS para armazenar as fotos em cloud. No projeto do TCC usamos uma API de localização para mostrar o mapa com a localização do comércio, e a escolhida foi a Leaflet. Usando o ReactJs fica bem fácil usar ela, basta instalar 2 biblioteca com o npm e depois é só usar os componentes, e para mostrar o ponto no mapa trazemos a latitude e longitude do nosso banco de dados.
 ##
  
 <div style="display: inline_block"><br>
