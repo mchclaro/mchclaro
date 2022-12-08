@@ -5,7 +5,7 @@
 - 🔥 Aperfeiçoando meus conhecimento em frontend. Sou aluno do curso Programador FullStack JavaScript Profissional da escola OneBitCode.
 
 
-### Projetos Atuais
+### Projetos Desenvolvidos Recentemente
 - 🚀 Projeto de estágio da faculdade: Foi desenvolvido um site back-office para gerenciar serviços que a empresa realiza tais como: pintura, serviços elétricos, hidraúlicos, alvenaria e pequenos reparos. O projeto será utilizado pelo admnistrador da empresa, onde ele poderá realizar orçamentos, agendamentos, relatórios e mais.
 Uma API desenvolvida em .NET 6 com C# (e também: Entity Framework Core, LINQ...) o banco de dados relacional SQLServer, para o frontend usamos HTML5, CSS3, Javascript e biblioteca ReactJs.
 
