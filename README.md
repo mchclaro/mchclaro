@@ -6,7 +6,7 @@
 
 
 ### Projetos Desenvolvidos Recentemente
-- 🚀 Projeto de estágio da faculdade: Foi desenvolvido um site back-office para gerenciar serviços que a empresa realiza tais como: pintura, serviços elétricos, hidraúlicos, alvenaria e pequenos reparos. O projeto será utilizado pelo admnistrador da empresa, onde ele poderá realizar orçamentos, agendamentos, relatórios e mais.
+- 🚀 Projeto de estágio da faculdade: Foi desenvolvido um site back-office para gerenciar serviços que a empresa realiza tais como: pintura, serviços elétricos, hidráulicos, alvenaria e pequenos reparos. O projeto será utilizado pelo administrador da empresa, onde ele poderá realizar orçamentos, agendamentos, relatórios e mais.
 Uma API desenvolvida em .NET 6 com C# (e também: Entity Framework Core, LINQ...) o banco de dados relacional SQLServer, para o frontend usamos HTML5, CSS3, Javascript e biblioteca ReactJs.
 
 - 🚀 Trabalho de conclusão de curso: Um site para os usuários e visitantes da cidade onde moro utilizar, o objetivo é listar todos comércios da cidade ou a maioria deles, onde será feita a busca por uma loja e assim irá ver as informações como: endereço, telefone, horário de atendimento, redes sociais, etc. Poderá filtrar por categoria de comércio também. A API foi desenvolvida em .NET 6 com C# (e também: Entity Framework Core, LINQ...) e o banco de dados relacional SQLServer para o backend do projeto, como este projeto o nosso publico alvo são os usuários vamos utilizar para o frontend o ReactJs e o site é responsivo.
