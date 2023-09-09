@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Michel Claro, Desenvolvedor Backend .NET | C# Júnior 👨🏻‍💻
 
 - ✅ Tecnologias que tenho conhecimento e experiência: C#, .NET, .NET Core, MCV, WebForms, ASP.NET SqlServer, JavaScript, HTML5, CSS3.
-- ✅ Experiência também com Google Gloud Platform (GCP), AWS S3 e metologia ágeis.
+- ✅ Experiência também com Google Gloud Platform (GCP), AWS S3, Azure e metologia ágeis.
+- 🔥 Pós Graduando em Arquitetura de Sistemas .NET com Azure na FIAP.
 - 🔥 Aperfeiçoando meus conhecimento em frontend. Sou aluno do curso Programador FullStack JavaScript Profissional da escola OneBitCode.
 
 
